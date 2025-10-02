@@ -1,4 +1,4 @@
-Este projeto é uma página de login moderna desenvolvida com React, Vite e Tailwind CSS, oferecendo uma interface limpa, responsiva e fácil de adaptar para diferentes aplicações web.
+Este projeto é uma página de login moderna desenvolvida com React, Vite e Tailwind CSS, tendo uma interface limpa e responsiva.
 
 
 Tecnologias utilizadas
@@ -33,6 +33,5 @@ npm install
 # Rodar em ambiente de desenvolvimento
 npm run dev
 
-Após rodar, abra no navegador o endereço exibido no terminal (geralmente http://localhost:5173).
-
+Após rodar no terminal, abra no navegador o endereço exibido no terminal (geralmente http://localhost:5173).
 
