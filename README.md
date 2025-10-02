@@ -23,3 +23,16 @@ Botões de login social (Google e GitHub como exemplo);
 Layout responsivo e adaptável a diferentes telas;
 
 Estilo moderno com gradientes, cantos arredondados e sombras suaves.
+
+
+Como executar
+
+# Instalar dependências
+npm install
+
+# Rodar em ambiente de desenvolvimento
+npm run dev
+
+Após rodar, abra no navegador o endereço exibido no terminal (geralmente http://localhost:5173).
+
+
